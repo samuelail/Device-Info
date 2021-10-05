@@ -16,6 +16,25 @@
 		7E479FE3270CA143004EDBFF /* Device_InfoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E479FE2270CA143004EDBFF /* Device_InfoTests.swift */; };
 		7E479FED270CA143004EDBFF /* Device_InfoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E479FEC270CA143004EDBFF /* Device_InfoUITests.swift */; };
 		7E479FEF270CA143004EDBFF /* Device_InfoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E479FEE270CA143004EDBFF /* Device_InfoUITestsLaunchTests.swift */; };
+		7E479FFC270CA471004EDBFF /* RequestInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E479FFB270CA471004EDBFF /* RequestInfoViewController.swift */; };
+		7E47A004270CA71E004EDBFF /* CCZoomTransitioner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E47A000270CA71E004EDBFF /* CCZoomTransitioner.swift */; };
+		7E47A005270CA71E004EDBFF /* CCSwipBackPresentationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E47A001270CA71E004EDBFF /* CCSwipBackPresentationController.swift */; };
+		7E47A006270CA71E004EDBFF /* CCZoomAnimatedTransitioning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E47A002270CA71E004EDBFF /* CCZoomAnimatedTransitioning.swift */; };
+		7E47A007270CA71E004EDBFF /* CCZoomTransitionVCExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E47A003270CA71E004EDBFF /* CCZoomTransitionVCExtension.swift */; };
+		7E47A009270CA890004EDBFF /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E47A008270CA890004EDBFF /* GradientView.swift */; };
+		7E47A00B270CC68C004EDBFF /* BatteryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E47A00A270CC68C004EDBFF /* BatteryView.swift */; };
+		7E47A00D270CC6C5004EDBFF /* ResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E47A00C270CC6C5004EDBFF /* ResultsViewController.swift */; };
+		7E47A01B270CD0B5004EDBFF /* Luminous+Audio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E47A011270CD0B4004EDBFF /* Luminous+Audio.swift */; };
+		7E47A01C270CD0B5004EDBFF /* Luminous.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E47A012270CD0B4004EDBFF /* Luminous.swift */; };
+		7E47A01D270CD0B5004EDBFF /* Luminous+Disk.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E47A013270CD0B5004EDBFF /* Luminous+Disk.swift */; };
+		7E47A01E270CD0B5004EDBFF /* Luminous+Application.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E47A014270CD0B5004EDBFF /* Luminous+Application.swift */; };
+		7E47A01F270CD0B5004EDBFF /* Luminous+Hardware.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E47A015270CD0B5004EDBFF /* Luminous+Hardware.swift */; };
+		7E47A020270CD0B5004EDBFF /* Luminous+Locale.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E47A016270CD0B5004EDBFF /* Luminous+Locale.swift */; };
+		7E47A021270CD0B5004EDBFF /* Luminous+Battery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E47A017270CD0B5004EDBFF /* Luminous+Battery.swift */; };
+		7E47A022270CD0B5004EDBFF /* Luminous+Carrier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E47A018270CD0B5004EDBFF /* Luminous+Carrier.swift */; };
+		7E47A023270CD0B5004EDBFF /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E47A019270CD0B5004EDBFF /* Reachability.swift */; };
+		7E47A024270CD0B5004EDBFF /* Luminous+Network.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E47A01A270CD0B5004EDBFF /* Luminous+Network.swift */; };
+		7E47A026270CD19A004EDBFF /* Deviice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E47A025270CD19A004EDBFF /* Deviice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +68,25 @@
 		7E479FE8270CA143004EDBFF /* Device InfoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Device InfoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7E479FEC270CA143004EDBFF /* Device_InfoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Device_InfoUITests.swift; sourceTree = "<group>"; };
 		7E479FEE270CA143004EDBFF /* Device_InfoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Device_InfoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		7E479FFB270CA471004EDBFF /* RequestInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestInfoViewController.swift; sourceTree = "<group>"; };
+		7E47A000270CA71E004EDBFF /* CCZoomTransitioner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CCZoomTransitioner.swift; sourceTree = "<group>"; };
+		7E47A001270CA71E004EDBFF /* CCSwipBackPresentationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CCSwipBackPresentationController.swift; sourceTree = "<group>"; };
+		7E47A002270CA71E004EDBFF /* CCZoomAnimatedTransitioning.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CCZoomAnimatedTransitioning.swift; sourceTree = "<group>"; };
+		7E47A003270CA71E004EDBFF /* CCZoomTransitionVCExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CCZoomTransitionVCExtension.swift; sourceTree = "<group>"; };
+		7E47A008270CA890004EDBFF /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
+		7E47A00A270CC68C004EDBFF /* BatteryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BatteryView.swift; sourceTree = "<group>"; };
+		7E47A00C270CC6C5004EDBFF /* ResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsViewController.swift; sourceTree = "<group>"; };
+		7E47A011270CD0B4004EDBFF /* Luminous+Audio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Luminous+Audio.swift"; sourceTree = "<group>"; };
+		7E47A012270CD0B4004EDBFF /* Luminous.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Luminous.swift; sourceTree = "<group>"; };
+		7E47A013270CD0B5004EDBFF /* Luminous+Disk.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Luminous+Disk.swift"; sourceTree = "<group>"; };
+		7E47A014270CD0B5004EDBFF /* Luminous+Application.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Luminous+Application.swift"; sourceTree = "<group>"; };
+		7E47A015270CD0B5004EDBFF /* Luminous+Hardware.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Luminous+Hardware.swift"; sourceTree = "<group>"; };
+		7E47A016270CD0B5004EDBFF /* Luminous+Locale.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Luminous+Locale.swift"; sourceTree = "<group>"; };
+		7E47A017270CD0B5004EDBFF /* Luminous+Battery.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Luminous+Battery.swift"; sourceTree = "<group>"; };
+		7E47A018270CD0B5004EDBFF /* Luminous+Carrier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Luminous+Carrier.swift"; sourceTree = "<group>"; };
+		7E47A019270CD0B5004EDBFF /* Reachability.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Reachability.swift; sourceTree = "<group>"; };
+		7E47A01A270CD0B5004EDBFF /* Luminous+Network.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Luminous+Network.swift"; sourceTree = "<group>"; };
+		7E47A025270CD19A004EDBFF /* Deviice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Deviice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,9 +137,12 @@
 		7E479FCA270CA13E004EDBFF /* Device Info */ = {
 			isa = PBXGroup;
 			children = (
+				7E479FFF270CA710004EDBFF /* Resources */,
 				7E479FCB270CA13E004EDBFF /* AppDelegate.swift */,
 				7E479FCD270CA13E004EDBFF /* SceneDelegate.swift */,
 				7E479FCF270CA13E004EDBFF /* ViewController.swift */,
+				7E479FFB270CA471004EDBFF /* RequestInfoViewController.swift */,
+				7E47A00C270CC6C5004EDBFF /* ResultsViewController.swift */,
 				7E479FD1270CA13E004EDBFF /* Main.storyboard */,
 				7E479FD4270CA143004EDBFF /* Assets.xcassets */,
 				7E479FD6270CA143004EDBFF /* LaunchScreen.storyboard */,
@@ -125,6 +166,38 @@
 				7E479FEE270CA143004EDBFF /* Device_InfoUITestsLaunchTests.swift */,
 			);
 			path = "Device InfoUITests";
+			sourceTree = "<group>";
+		};
+		7E479FFF270CA710004EDBFF /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				7E47A010270CD09C004EDBFF /* Device Info */,
+				7E47A001270CA71E004EDBFF /* CCSwipBackPresentationController.swift */,
+				7E47A002270CA71E004EDBFF /* CCZoomAnimatedTransitioning.swift */,
+				7E47A000270CA71E004EDBFF /* CCZoomTransitioner.swift */,
+				7E47A003270CA71E004EDBFF /* CCZoomTransitionVCExtension.swift */,
+				7E47A008270CA890004EDBFF /* GradientView.swift */,
+				7E47A00A270CC68C004EDBFF /* BatteryView.swift */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		7E47A010270CD09C004EDBFF /* Device Info */ = {
+			isa = PBXGroup;
+			children = (
+				7E47A012270CD0B4004EDBFF /* Luminous.swift */,
+				7E47A014270CD0B5004EDBFF /* Luminous+Application.swift */,
+				7E47A011270CD0B4004EDBFF /* Luminous+Audio.swift */,
+				7E47A017270CD0B5004EDBFF /* Luminous+Battery.swift */,
+				7E47A018270CD0B5004EDBFF /* Luminous+Carrier.swift */,
+				7E47A013270CD0B5004EDBFF /* Luminous+Disk.swift */,
+				7E47A015270CD0B5004EDBFF /* Luminous+Hardware.swift */,
+				7E47A016270CD0B5004EDBFF /* Luminous+Locale.swift */,
+				7E47A01A270CD0B5004EDBFF /* Luminous+Network.swift */,
+				7E47A019270CD0B5004EDBFF /* Reachability.swift */,
+				7E47A025270CD19A004EDBFF /* Deviice.swift */,
+			);
+			path = "Device Info";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -258,9 +331,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7E47A01B270CD0B5004EDBFF /* Luminous+Audio.swift in Sources */,
+				7E47A00D270CC6C5004EDBFF /* ResultsViewController.swift in Sources */,
+				7E47A007270CA71E004EDBFF /* CCZoomTransitionVCExtension.swift in Sources */,
+				7E47A026270CD19A004EDBFF /* Deviice.swift in Sources */,
+				7E47A021270CD0B5004EDBFF /* Luminous+Battery.swift in Sources */,
 				7E479FD0270CA13E004EDBFF /* ViewController.swift in Sources */,
+				7E47A005270CA71E004EDBFF /* CCSwipBackPresentationController.swift in Sources */,
 				7E479FCC270CA13E004EDBFF /* AppDelegate.swift in Sources */,
+				7E47A006270CA71E004EDBFF /* CCZoomAnimatedTransitioning.swift in Sources */,
+				7E47A024270CD0B5004EDBFF /* Luminous+Network.swift in Sources */,
+				7E47A01F270CD0B5004EDBFF /* Luminous+Hardware.swift in Sources */,
+				7E479FFC270CA471004EDBFF /* RequestInfoViewController.swift in Sources */,
+				7E47A00B270CC68C004EDBFF /* BatteryView.swift in Sources */,
 				7E479FCE270CA13E004EDBFF /* SceneDelegate.swift in Sources */,
+				7E47A01D270CD0B5004EDBFF /* Luminous+Disk.swift in Sources */,
+				7E47A01E270CD0B5004EDBFF /* Luminous+Application.swift in Sources */,
+				7E47A004270CA71E004EDBFF /* CCZoomTransitioner.swift in Sources */,
+				7E47A009270CA890004EDBFF /* GradientView.swift in Sources */,
+				7E47A022270CD0B5004EDBFF /* Luminous+Carrier.swift in Sources */,
+				7E47A020270CD0B5004EDBFF /* Luminous+Locale.swift in Sources */,
+				7E47A023270CD0B5004EDBFF /* Reachability.swift in Sources */,
+				7E47A01C270CD0B5004EDBFF /* Luminous.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
